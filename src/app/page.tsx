@@ -2,8 +2,6 @@
 
 export default function Home() {
 
-const submitMessage = async (message: string) => {};
-
 const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {}
 
 const textAreaStyle = "max-h-40 min-h-12 flex-1 resize-none overflow-y-auto rounded-2xl border bg-background py-3 leading-6 [field-sizing:fixed] text-base md:text-sm"
